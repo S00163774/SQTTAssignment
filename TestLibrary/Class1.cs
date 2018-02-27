@@ -40,7 +40,7 @@ namespace TestLibrary
             Assert.AreEqual(expectedResult, actualResult);
         }
 
-        [Test]
+        [Test] https://github.com/S00163774/SQTTAssignment.git
         static public void Test3()
         {
             double expectedResult = 1.75;
